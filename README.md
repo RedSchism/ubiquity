@@ -1,3 +1,3 @@
-# ubiquity
+# Welcome to (u)biquity : A Playnite Theme
 
-https://github.com/RedSchism/ubiquity/blob/main/screenshot01.jpg
+<img src="https://raw.githubusercontent.com/RedSchism/ubiquity/main/screenshot01.jpg" />
