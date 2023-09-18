@@ -6,3 +6,24 @@ Packages:
     PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.0.0/u.biquity_1_0_0.pthm
     Changelog:
       - First public release build
+  - Version: 1.1.1
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-9-17
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.1.1/u.biquity_1_1_1.pthm
+    Changelog:
+      - Changed Input Support Icon integration method from using Tags to Features
+      - added icon support for multiple regions age ratings systems
+      - Australian Classification Board agerating icons added
+      - Unterhaltungssoftware Selbstkontrolle agerating icons added
+      - 게임물등급위원회 agerating icons added
+      - International Age Rating Coalition agerating icons added
+      - resolved issue with update icon moving age ratings icon
+      - moved notifications button and update icon to the status bar
+      - moved Active Filter Notification prompt to Main Filter position
+      - moved Progress Indicator to top of the screen to avoid visibility issues on some setups
+      - added cornerradius to line 52 of ListGameItemStyle.xaml
+      - updated main.xaml and gamedetails.xaml games mini descriptor to reflect input changes
+      - updated multiple files to support alternate color schemes
+      - added text shadows to FiltersView.xaml for greater legibility
+      - added animated borders to games selection panel
+      - added New Theme Options folder for easier user customization
