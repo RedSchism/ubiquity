@@ -33,3 +33,4 @@ Packages:
     PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.1.2/u.biquity_1_1_2.pthm
     Changelog:
       - Hotfix for additional filters prompt not hiding in grid view
+    
