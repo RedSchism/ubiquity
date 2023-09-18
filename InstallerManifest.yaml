@@ -27,3 +27,9 @@ Packages:
       - added text shadows to FiltersView.xaml for greater legibility
       - added animated borders to games selection panel
       - added New Theme Options folder for easier user customization
+  - Version: 1.1.2
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-9-17
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.1.2/u.biquity_1_1_2.pthm
+    Changelog:
+      - *Hotfix for additional filters prompt not hiding in grid view
