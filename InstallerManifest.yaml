@@ -33,4 +33,17 @@ Packages:
     PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.1.2/u.biquity_1_1_2.pthm
     Changelog:
       - Hotfix for additional filters prompt not hiding in grid view
+  - Version: 1.2.0
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-10-17
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.2.0/u.biquity_1_2_0.pthm
+    Changelog:
+      - Added Transition animations to improve user experience
+      - Added Library Icons
+      - Added Novel Netflix styled Movie ratings ESRB icons in theme options
+      - Added Classic Ubiquity Theme Style added to theme options
+      - Modified Metadata Logo/Gamedetails position adjusted
+      - Modified Age Ratings position adjusted to avoid clipping with certain configurations
+      - Modified Notification Bell Icon changed to Simple Dot Icon
+      - Modified Mobile Phone Input Icon
     
