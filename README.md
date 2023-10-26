@@ -34,7 +34,7 @@ ________________________________________________________________________________
 Special Characters Used in this theme.
 
 Categories:
-★★★★★		★★★★		★★★		★★		★	
+★★★★★		 |   ★★★★		|    ★★★		|    ★★		 |   ★	
 
 *For ratings to appear you'll have to add these manually to the Categories Tab.
 so think for this as your personal rating
