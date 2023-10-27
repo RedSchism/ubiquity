@@ -46,4 +46,17 @@ Packages:
       - Modified Age Ratings position adjusted to avoid clipping with certain configurations
       - Modified Notification Bell Icon changed to Simple Dot Icon
       - Modified Mobile Phone Input Icon
-    
+  - Version: 1.2.1
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-10-27
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.2.1/u.biquity_1_2_1.pthm
+    Changelog:
+      - Changed Platform Icon from Library to Source to allow for more user control
+      - Changed Default Theme to monochromatic color scheme
+      - Added New Platform Icons
+      - Added Empty Star Rating Filler (ratings still controlled manually with categories)
+      - Added New Filter Icons
+      - Added Classic Color Scheme to Theme Options
+      - Fixed Multiple Coding issues
+      - Removed redundant files 
+      - Updated Readme
