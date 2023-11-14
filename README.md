@@ -4,7 +4,7 @@
 **Addon: Extra MetaData Loader is required* for Full Features.**
 
 ________________________________________________________________________________________
-::Extra MetaData Loader Settings::
+::Extra MetaData Loader Settings:: <sub>(Optional)</sub>
 
 <sub>Open Add-ons Options ("F9") from the Playnite Desktop app, and edit logo settings.</sub>
 
