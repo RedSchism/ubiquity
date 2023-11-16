@@ -11,7 +11,7 @@ ________________________________________________________________________________
 **[Add-ons/Generic/Extra Metadata Loader/Logo Settings>Logo loader settings]**
 
 - Max width = 600
-- Max hight = 600
+- Max hight = 320
 
 ________________________________________________________________________________________
 
@@ -47,3 +47,31 @@ ________________________________________________________________________________
 
 *sidebar supports up to 14 icons (filters)
 ________________________________________________________________________________________
+
+**::Settings used in the Screenshot::**
+
+**Theme Settings**
+
+<sup>Playnite\Themes\Fullscreen\(u)biquity\Theme Options</sup>
+
+- 1 . Main Page Styles = "4. Classic Theme"
+- 3 . Color Scheme = "0. Classic Color Scheme"
+
+<sub>COPY chosen theme options into theme main dir, unzip files and select YES to override</sub>
+
+**Extra MetaData Loader Settings:**
+
+<sup>Playnite Addons>Extensions Settings>Generic>Extra Metadata Loader> Logo Settings>Logo Loader Settings</sup>
+- Max width = 600
+- Max hight = 285
+
+**Game Covers:**
+
+<sup>Playnite Settings>GridView> Target aspect ratio = 1 : 1 (Preset: "Square")</sup>
+
+**Fullscreen Theme Settings:**
+
+<sup>Fullscreen Settings>Layout> </sup>
+- Columns= 7
+- Rows= 4
+- Item Spacing= 20
