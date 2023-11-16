@@ -60,3 +60,15 @@ Packages:
       - Fixed Multiple Coding issues
       - Removed redundant files 
       - Updated Readme
+  - Version: 1.2.2
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-11-16
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v1.2.2/u.biquity_1_2_2.pthm
+    Changelog:
+      - Fixed Game panel Column parameters
+      - Fixed Game Covers will no longer clip filter titles while using certain column layouts
+      - Fixed Grid mode Top bar resized to fit new game panel
+      - Mute Button Position adjusted for fit new column layouts
+      - Fixed Menu Button placement for ultrawide setups
+      - Fixed Ultrawide optimizations for various elements
+      - Added Filter and Source icons for GeForce Now
