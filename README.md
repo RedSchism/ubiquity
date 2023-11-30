@@ -15,6 +15,18 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
+::Completion status tags::
+
+To Enable/Disable Tags, in fullscreenmode "settings/visuals" Check/Uncheck 
+"Darken not installed games".
+
+<sub>If you want to have tags displayed as in the screenshots:</sub> 
+
+In desktop mode enter "Library Manager" (Ctrl+W) / Completion Statuses and Add button 
+enter term " New " as a category. Then on the right side in the dropdown menu select " New "
+as "Default status assigned to newly added games" and "Remove" to the menu below that. 
+________________________________________________________________________________________
+
 *Extra Visual Options are available in the "Theme Options" Folder
 ________________________________________________________________________________________
 
@@ -31,18 +43,7 @@ If it appears empty for you ensure you have the following entries
 and install "Universal Steam Metadata" from the Add-ons Menu (Add-ons/Browse/MetadataSources)
 ________________________________________________________________________________________
 
-
-<sup>Special Characters Used in this theme.</sup>
-
-<sub>Categories:</sub>
-
-★★★★★		 |   ★★★★		|    ★★★		|    ★★		 |   ★	
-
-*For ratings to appear you'll have to add these manually to the Categories Tab.
-so think for this as your personal rating
-
-<sub>Unfortunately I'm still very new to this and haven't figured out a way to set this 
-automatically yet.</sub> 
+Star Rating System is Calculated by Critic Score
 ________________________________________________________________________________________
 
 *sidebar supports up to 14 icons (filters)
