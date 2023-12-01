@@ -119,7 +119,7 @@ ________________________________________________________________________________
 _*sidebar supports up to 14 icons (filters)_
 ________________________________________________________________________________________
 
-**::Settings used in the Screenshot::**
+**::Original Settings for the Classic Theme::**
 
 **Theme Settings**
 
