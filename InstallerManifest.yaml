@@ -72,3 +72,29 @@ Packages:
       - Fixed Menu Button placement for ultrawide setups
       - Fixed Ultrawide optimizations for various elements
       - Added Filter and Source icons for GeForce Now
+  - Version: 2.0.0
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-12-1
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v2.0.0/u.biquity_2_0_0.pthm
+    Changelog:
+      - Added Fully Functional StarRating system implemented
+      - Star Ratings are now determined by CriticScore
+      - Fixed Ultrawide Wallpaper handling
+      - Fixed Ultrawide Trailer handling
+      - Fixed Ultrawide Filters Settings panel
+      - Fixed Ultrawide Notification Menu
+      - Added Backgrounds to the Game Details View
+      - Added Game Details Styles to the Theme Options Folder
+      - Option To Turn Off Trailers in Game Details View added to Theme Options Folder
+      - Changed Mute Button Style on GameDetails View with Trailers
+      - Added Star Ratings Visual Options to Theme Options Folder
+      - Added Completion Status Tags to Games List
+      - Completion Tags can be enabled/disbled in the settings with "Darken not installed games"
+      - Changed Increased Infobar font size
+      - Changed Default Theme's Main appearance
+      - Added Game descriptions to Main view
+      - Added Neo-Geo Filter and Source icons
+      - Added Gridview game counter
+      - Added New Navigation Sound Effects
+      - Added SuccessStory addon Support
+      - Added Startup Intro Video         
