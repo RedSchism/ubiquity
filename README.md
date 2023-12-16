@@ -79,13 +79,13 @@ ________________________________________________________________________________
 
 ### <h3>::Filter Icon Customization::</h3>
 
-<sup>_note: For icons to properly appear, Filter name and icons name must match!_</sup>
+<sup>_note: For icons to properly appear, Filter name and icon.png name must match!_</sup>
 
 
 
-open: **[ ubiquity\Images\Icons\FilterIcons ]** 
+To edit icons open: **[ ubiquity\Images\Icons\FilterIcons ]** 
 
-choose and rename _(or add)_ any .png with matching name to your custom filters **_(e.g. Filter: "all games" = "all games.png")._**
+choose and rename _(or add)_ any .png with matching name to your filters **_(e.g. Filter: "my games" = "my games.png")._**
 
 ________________________________________________________________________________________
 ### <h3>::Filter Sorting::</h3>
