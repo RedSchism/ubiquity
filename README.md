@@ -1,16 +1,18 @@
 # Welcome to (u)biquity : A Playnite Theme
 
 <img src="https://raw.githubusercontent.com/RedSchism/ubiquity/main/screenshot01.jpg" />
-**Addon: Extra MetaData Loader is required* for Full Features**
 
+**Addon: **Extra MetaData Loader** is required* for Full Features**
+
+________________________________________________________________________________________
+Ⓐ Details   Ⓧ Install / Play   Ⓨ Search   Ⓡ Filters   ☰ Game Options   
 ________________________________________________________________________________________
 
 
 
 
 
-
-**::Questions and Answers::**
+### **::Questions and Answers::**
 
 
 <details> 
@@ -75,7 +77,7 @@ ________________________________________________________________________________
 _*Extra Visual Options are available in the "Theme Options" Folder_
 ________________________________________________________________________________________
 
-**::Completion status tags::**
+### **::Completion status tags::**
 
 To Enable/Disable Tags, in fullscreenmode "settings/visuals" Check/Uncheck 
 "Darken not installed games".
@@ -87,7 +89,7 @@ enter term " New " as a category. Then on the right side in the dropdown menu se
 as "Default status assigned to newly added games" and "Remove" to the menu below that. 
 ________________________________________________________________________________________
 
-**::Controller Icons::**
+### **::Controller Icons::**
 
 Input Icons are controlled by "Features" category.
 If it appears empty for you ensure you have the following entries
@@ -103,9 +105,10 @@ and install "Universal Steam Metadata" from the Add-ons Menu (Add-ons/Browse/Met
 ________________________________________________________________________________________
 
 _*Star Rating System is Calculated by Critic Score_
+· ★★★★☆        
 ________________________________________________________________________________________
 
-**::Extra MetaData Loader Settings:: <sub>(Optional)</sub>**
+### **::Extra MetaData Loader Settings:: <sub>(Optional)</sub>**
 
 <sub>Open Add-ons Options ("F9") from the Playnite Desktop app, and edit logo settings.</sub>
 
@@ -119,7 +122,32 @@ ________________________________________________________________________________
 _*sidebar supports up to 14 icons (filters)_
 ________________________________________________________________________________________
 
-**::Original Settings for the Classic Theme::**
+### <h3>::Filter Icon Customization::</h3>
+
+<sup>_note: For icons to properly appear, Filter names and icons names must match!_</sup>
+
+
+
+open: **[ ubiquity\Images\Icons\FilterIcons ]** 
+
+choose and rename _(or add)_ any .png to match the name of your custom filters **_(e.g. Filter: "all games" = "all games.png")._**
+
+________________________________________________________________________________________
+### <h3>::Filter Sorting::</h3>
+
+You can reorganize your filters list using Playnite's Built-in Library Manager!
+
+In the Playnite desktop app open "Library Manager" by clicking the icon in the top left, selecting **Library>Library Manager <small>_(Ctrl+W)_</small>**
+
+Scroll to the bottom of the list to "Filter Presets" <sub>_(if you dont see it Enlarge the window)_</sub>
+
+From this menu you can rename/remove/reorganize the order that your filters appear in Playnite.
+
+________________________________________________________________________________________
+________________________________________________________________________________________
+
+<details>
+ <summary> ::Original Settings for the Classic Theme:: </summary>
 
 **Theme Settings**
 
@@ -147,3 +175,4 @@ ________________________________________________________________________________
 - Columns= 7
 - Rows= 4
 - Item Spacing= 20
+</details>
