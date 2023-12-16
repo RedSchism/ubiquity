@@ -77,16 +77,29 @@ ________________________________________________________________________________
 _*Extra Visual Options are available in the "Theme Options" Folder_
 ________________________________________________________________________________________
 
-### **::Completion status tags::**
+### <h3>::Filter Icon Customization::</h3>
 
-To Enable/Disable Tags, in fullscreenmode "settings/visuals" Check/Uncheck 
-"Darken not installed games".
+<sup>_note: For icons to properly appear, Filter name and icons name must match!_</sup>
 
-<sub>If you want to have tags displayed as in the screenshots:</sub> 
 
-In desktop mode enter "Library Manager" (Ctrl+W) / Completion Statuses and Add button 
-enter term " New " as a category. Then on the right side in the dropdown menu select " New "
-as "Default status assigned to newly added games" and "Remove" to the menu below that. 
+
+open: **[ ubiquity\Images\Icons\FilterIcons ]** 
+
+choose and rename _(or add)_ any .png with matching name to your custom filters **_(e.g. Filter: "all games" = "all games.png")._**
+
+________________________________________________________________________________________
+### <h3>::Filter Sorting::</h3>
+
+You can reorganize your filters list using Playnite's Built-in Library Manager!
+
+In the Playnite desktop app open "Library Manager" by clicking the icon in the top left, selecting **Library>Library Manager <small>_(Ctrl+W)_</small>**
+
+Scroll to the bottom of the list to "Filter Presets" <sub>_(if you dont see it Enlarge the window)_</sub>
+
+From this menu you can rename/remove/reorganize the order that your filters appear in Playnite.
+________________________________________________________________________________________
+
+_*sidebar supports up to 14 icons (filters)_
 ________________________________________________________________________________________
 
 ### **::Controller Icons::**
@@ -104,6 +117,18 @@ If it appears empty for you ensure you have the following entries
 and install "Universal Steam Metadata" from the Add-ons Menu (Add-ons/Browse/MetadataSources)
 ________________________________________________________________________________________
 
+### **::Completion status tags::**
+
+To Enable/Disable Tags, in fullscreenmode "settings/visuals" Check/Uncheck 
+"Darken not installed games".
+
+<sub>If you want to have tags displayed as in the screenshots:</sub> 
+
+In desktop mode enter "Library Manager" (Ctrl+W) / Completion Statuses and Add button 
+enter term " New " as a category. Then on the right side in the dropdown menu select " New "
+as "Default status assigned to newly added games" and "Remove" to the menu below that. 
+________________________________________________________________________________________
+
 _*Star Rating System is Calculated by Critic Score_
 · ★★★★☆        
 ________________________________________________________________________________________
@@ -116,32 +141,6 @@ ________________________________________________________________________________
 
 - Max width = 600
 - Max hight = 320
-
-________________________________________________________________________________________
-
-_*sidebar supports up to 14 icons (filters)_
-________________________________________________________________________________________
-
-### <h3>::Filter Icon Customization::</h3>
-
-<sup>_note: For icons to properly appear, Filter names and icons names must match!_</sup>
-
-
-
-open: **[ ubiquity\Images\Icons\FilterIcons ]** 
-
-choose and rename _(or add)_ any .png to match the name of your custom filters **_(e.g. Filter: "all games" = "all games.png")._**
-
-________________________________________________________________________________________
-### <h3>::Filter Sorting::</h3>
-
-You can reorganize your filters list using Playnite's Built-in Library Manager!
-
-In the Playnite desktop app open "Library Manager" by clicking the icon in the top left, selecting **Library>Library Manager <small>_(Ctrl+W)_</small>**
-
-Scroll to the bottom of the list to "Filter Presets" <sub>_(if you dont see it Enlarge the window)_</sub>
-
-From this menu you can rename/remove/reorganize the order that your filters appear in Playnite.
 
 ________________________________________________________________________________________
 ________________________________________________________________________________________
