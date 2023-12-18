@@ -98,3 +98,15 @@ Packages:
       - Added New Navigation Sound Effects
       - Added SuccessStory addon Support
       - Added Startup Intro Video         
+  - Version: 2.0.1
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2023-12-18
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v2.0.1/u.biquity_2_0_1.pthm
+    Changelog:
+      - Updated ThemeAPI to 2.6.0 to reflect changes in Playnite v10.30
+      - Changed Gamedetails selection button style
+      - Adjusted Star Ratings scoring system to more accurately reflect game scoring systems
+      - Fixed Additional filters text alignment
+      - Added new color options to Theme Options
+      - Added Default filter icons for the following languages
+      - Arabic / Chinese (Simplified) / French / German / Japanese / Korean / Russian / Spanish      
