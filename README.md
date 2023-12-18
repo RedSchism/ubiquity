@@ -5,7 +5,8 @@
 **Addon: **Extra MetaData Loader** is required* for Full Features**
 
 ________________________________________________________________________________________
-Ⓐ Details   Ⓧ Install / Play   Ⓨ Search   Ⓡ Filters   ☰ Game Options   
+Ⓐ Details   Ⓧ Install / Play   Ⓨ Search   Ⓡ Filters   Ⓛ Quick Select Filters   ☰ Game Options    
+
 ________________________________________________________________________________________
 
 
