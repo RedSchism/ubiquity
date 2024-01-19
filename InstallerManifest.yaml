@@ -110,3 +110,15 @@ Packages:
       - Added new color options to Theme Options
       - Added Default filter icons for the following languages
       - Arabic / Chinese (Simplified) / French / German / Japanese / Korean / Russian / Spanish      
+  - Version: 2.0.4
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-1-18
+    PackageUrl: https://github.com/RedSchism/ubiquity/releases/download/v2.0.4/u.biquity_2_0_4.pthm
+    Changelog:
+      - Fixed FiltersView alignment issues in 16x10
+      - Fixed Game descriptions no longer disapear when opening filters view
+      - Misc Minor change to directors cut theme styles
+      - Split Gamedetails pages with trailers, between standard and ultrawide aspect ratios
+      - By default the 16x9 / 16x10 Gamedetails page is active
+      - For Ultrawide users please use the ultrawide GamesDetails page in the Theme Options Folder
+      - Added SteamDeck Source and Filter Icons      
